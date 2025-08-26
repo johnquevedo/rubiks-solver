@@ -5,7 +5,7 @@
 1. Compile the program:
 
 ```bash
-g++ main.cpp -o cube
+g++ cube.cpp -o cube
 ```
 ```bash
 ./cube <scramble_string>
