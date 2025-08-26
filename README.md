@@ -19,4 +19,4 @@ For example:
 ```bash
 ./cube wogbry... (total 54 characters)
 ```
-The program will output the solution sequence
+The program will output the solution sequence.
