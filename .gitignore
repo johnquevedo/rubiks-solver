@@ -1,0 +1,14 @@
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.log
+*.dSYM/
+*.ilk
+*.pdb
+.vs/
+*.vcxproj*
+*.sln
+.DS_Store
+*.tmp
